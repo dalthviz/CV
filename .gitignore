@@ -1,2 +1,5 @@
 .DS_Store
 config.codekit
+page/
+.grunt/
+node_modules/
