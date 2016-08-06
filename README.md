@@ -1,6 +1,6 @@
 ##Daniel Althviz Moré CV
 
-In progress...
+[CV](https://dalthviz.github.io/CV)
 
 ##Some development tools used...
 
@@ -19,3 +19,4 @@ Using the template made by UX/UI designer [Xiaoying Riley](https://twitter.com/3
 ##Improvements
 
 * Added an automatic way to publish the CV at [GitHub Pages](https://pages.github.com/) with [grunt-gh-pages](https://github.com/tschaub/grunt-gh-pages), [grunt-contrib-copy](https://github.com/gruntjs/grunt-contrib-copy) and [grunt-contrib-clean](https://github.com/gruntjs/grunt-contrib-clean)
+* Added a way to change content (of different languages) with AngularJS
