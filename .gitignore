@@ -3,3 +3,4 @@ config.codekit
 page/
 .grunt/
 node_modules/
+.idea/
