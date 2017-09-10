@@ -20,6 +20,10 @@ jQuery(document).ready(function($) {
 
     });
    
+    $(document).ready(function(){
+        $('a').attr('target', '_blank');
+      });
+      
     
 
 });
